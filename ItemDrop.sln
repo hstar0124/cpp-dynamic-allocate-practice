@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RPGGame", "RPGGame\RPGGame.vcxproj", "{41DDC8AA-1A58-453F-832C-118BE74E07A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41DDC8AA-1A58-453F-832C-118BE74E07A5}.Debug|x64.ActiveCfg = Debug|x64
+		{41DDC8AA-1A58-453F-832C-118BE74E07A5}.Debug|x64.Build.0 = Debug|x64
+		{41DDC8AA-1A58-453F-832C-118BE74E07A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{41DDC8AA-1A58-453F-832C-118BE74E07A5}.Debug|x86.Build.0 = Debug|Win32
+		{41DDC8AA-1A58-453F-832C-118BE74E07A5}.Release|x64.ActiveCfg = Release|x64
+		{41DDC8AA-1A58-453F-832C-118BE74E07A5}.Release|x64.Build.0 = Release|x64
+		{41DDC8AA-1A58-453F-832C-118BE74E07A5}.Release|x86.ActiveCfg = Release|Win32
+		{41DDC8AA-1A58-453F-832C-118BE74E07A5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6385291-5B70-4D63-AB2C-A9F24AE6163E}
+	EndGlobalSection
+EndGlobal
